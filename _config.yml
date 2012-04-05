@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Yong's Blog
-tagline: Blog More!
+tagline: Programmer and Potter
 author :
   name : Yong Cha
   email : 
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : programmerandpotter
     livefyre :
       site_id : 123
     intensedebate :
